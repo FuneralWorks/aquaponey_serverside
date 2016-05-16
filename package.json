@@ -1,0 +1,10 @@
+{
+  "name": "aquaponey",
+  "main": "server.js",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "socket.io": "latest"
+  }
+}

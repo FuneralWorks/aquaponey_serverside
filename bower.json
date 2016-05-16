@@ -1,0 +1,23 @@
+{
+  "name": "aquaponey",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "FuneralWorks <nathan.calvarin@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "socket-io": "^1.0.0",
+    "socket-io-client": "^1.4.5"
+  }
+}
